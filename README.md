@@ -29,7 +29,9 @@ license. Just open README Generator in VS Code (or directly within Node.js), ope
 
 I provided an easy step-by-step walkthrough of this application & how to use it. Click the link below to watch. 
 
-  🔗 https://www.jacksonsquareshopping.co.uk/wp-content/uploads/2016/12/placeholder-1920x1080-copy.png 
+  🔗 https://youtu.be/RD45WMRiM1s
+
+  ![](screenshot/screenshot.jpg)
 
 
 ## Installation
